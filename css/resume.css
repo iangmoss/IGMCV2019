@@ -75,11 +75,16 @@ p.lead {
   background-color: #659DBD;
 }
 
-.dev-icons {
+.skills-size {
   font-size: 1rem;
 }
 
-.dev-icons .list-inline-item i:hover {
+.cirlce-style {
+  font-size: 0.3rem; 
+  vertical-align: middle;
+}
+
+.skills-size .list-inline-item i:hover {
   color: #659DBD;
 }
 
